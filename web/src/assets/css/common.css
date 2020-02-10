@@ -1,0 +1,203 @@
+  a:hover{
+  text-decoration: underline;
+  }
+
+  .el-menu-item i{
+    color: #303133 !important;
+  }
+  .el-input__inner{
+    border: 1px solid #303133 !important;
+    color: #303133 !important;
+  }
+
+  .el-input-group__append button.el-button, .el-input-group__append div.el-select .el-input__inner, .el-input-group__append div.el-select:hover .el-input__inner, .el-input-group__prepend button.el-button, .el-input-group__prepend div.el-select .el-input__inner, .el-input-group__prepend div.el-select:hover .el-input__inner{
+    background: #303133 !important;
+    border-color: #303133 !important;
+    color:white !important;
+  }
+
+  .el-container {
+  height: 100vh;
+  }
+
+  .el-header,
+  .el-footer {
+  background-color: #B3C0D1;
+  color: #333;
+  text-align: center;
+  line-height: 60px;
+  }
+
+  .el-aside {
+  width: 300px;
+  position: fixed;
+  border-right: 1px solid rgb(244, 244, 244);
+  background-color: white !important;
+  color: #333;
+  text-align: center;
+  line-height: 200px;
+  }
+
+  .el-card__body {
+  padding: 0px !important;
+  }
+
+  .el-main {
+  background-color: #E9EEF3;
+  color: #333;
+  text-align: center;
+  line-height: 147px
+  }
+
+  body>.el-container {
+  margin-bottom: 40px;
+  }
+
+  .el-container:nth-child(5) .el-aside,
+  .el-container:nth-child(6) .el-aside {
+  line-height: 260px;
+  }
+
+  .el-container:nth-child(7) .el-aside {
+  line-height: 320px;
+  }
+
+
+
+  .name {
+  position: relative;
+  top: -163px;
+  left: 0px;
+  font-family: '宋体';
+  font-weight: bold;
+  }
+
+  .el-input-group {
+  width: 90% !important;
+  top: -260px !important;
+  }
+
+  .el-menu{
+  border-right: 0px !important;
+  }
+
+  .el-menu-item {
+  border-right: 0px !important;
+  }
+
+  .text {
+  font-size: 14px;
+  }
+
+  .clearfix:before,
+  .clearfix:after {
+  display: table;
+  content: "";
+  }
+
+  .clearfix:after {
+  clear: both
+  }
+
+  .box-card {
+  width: 480px;
+  }
+
+  /* 右部侧边栏 */
+  .plaCrad {
+  position: relative;
+  top: 80px !important;
+  }
+
+  .placard {
+  font-weight: normal;
+  text-align: left;
+  font-size: 18px;
+  padding: 0px 30px;
+  }
+
+  .Gg{
+  position: relative;
+  margin-bottom: 120px;
+  }
+
+  .info {
+  position: relative;
+  top: -101px;
+  font-size: 13px;
+  padding: 0px 30px;
+  text-align: left;
+  line-height: 20px;
+  }
+
+  .rwm {
+  width: 140px;
+  height: 140px;
+  margin: 0px 20px;
+  display: block;
+  margin-top: -100px;
+  }
+
+  .Catelist {
+  position: relative;
+  top: 133px !important;
+  left: 0px;
+  }
+
+  .Catelist .list {
+  text-align: left;
+  line-height: 34px;
+  font-size: 14px;
+  color: #333;
+  text-decoration: none;
+  position: relative;
+  top: 0px !important;
+  }
+
+  .Catelist .list a {
+  text-decoration: none;
+  color: #333333;
+  }
+
+  .bgImg {
+  width: 100%;
+  height: 200px;
+  }
+
+  .title {
+  display: inline-block;
+  position: relative;
+  top: 176px;
+  width: 100%;
+  text-align: left;
+  z-index: 999;
+  transition: all 1s;
+  cursor: pointer;
+  }
+
+  .title:hover {
+  transition: all 1s;
+  color: #2196f3;
+  }
+
+  .content {
+  padding: 0px 30px;
+  line-height: 37px;
+  margin-bottom:100px;
+  }
+
+  .rightAside{  
+    width: 300px;
+    height:100vh;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    background-color: #FBFBFB;
+    overflow: hidden;
+    border-left: 0.7px solid rgb(244, 244, 244);
+  }
+
+  .articleContent{
+    position: relative;
+    left: 20%;
+  }
